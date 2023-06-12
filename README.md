@@ -24,7 +24,6 @@
 </p>
 
 <h3 align="left">Programming Languages</h3>
-<hr>
 <p align="left">
     <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
@@ -33,9 +32,9 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> 
     </a>
 </p>
+<hr>
 
 <h3 align="left">Frontend Development</h3>
-<hr>
 <p align="left">
     <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
@@ -53,9 +52,9 @@
         <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> 
     </a>
 </p>
+<hr>
 
 <h3 align="left">Mobile App Development</h3>
-<hr>
 <p align="left">
     <a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> 
@@ -64,9 +63,9 @@
         <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> 
     </a>
 </p>
+<hr>
 
 <h3 align="left">Database</h3>
-<hr>
 <p align="left">
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
@@ -75,9 +74,9 @@
     <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> 
 </a>
 </p>
+<hr>
 
 <h3 align="left">Framework</h3>
-<hr>
 <p align="left">
     <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> 
     <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> 
@@ -87,17 +86,17 @@
     <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> 
 </a>
 </p>
+<hr>
 
 <h3 align="left">Testing</h3>
-<hr>
 <p align="left">
 <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> 
 </a>
 </p>
+<hr>
 
 <h3 align="left">Software</h3>
-<hr>
 <p align="left">
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
 <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
@@ -107,6 +106,7 @@
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
 </a> 
 </p>
+<hr>
 
 <p>
     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=codinglinhtinh&show_icons=true&locale=en&layout=compact" alt="codinglinhtinh" />
