@@ -1,4 +1,4 @@
-[![MasterHead](https://cdn.faun.dev/prod/media/public/original_images/devOps-cloud-native.gif)](https://github.com/CodingLinhTinh)
+[![MasterHead](https://media0.giphy.com/headers/GitHub/w8ZJLtJbmuph.gif)](https://github.com/CodingLinhTinh)
 
 <h1 align="center">Hi 👋, I'm Nicole Quach</h1>
 <h2 align="center"> <i> I'm deeply passionate about working in the field of DevOps as well as being a Python developer from VietNam. </i> </h2>
@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **IBM DevOps and Software Engineering Professional Certificate**
 
-- 💬 Ask me about **Python.**
+- 💬 My experiences with **Python.** is 2 years.
 
 - 📫 How to reach me **<nicolequachworkspace@gmail.com>**
 
@@ -34,7 +34,7 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> 
     </a>
 </p>
-<hr>
+
 
 <h3 align="left">Frontend Development</h3>
 <p align="left">
@@ -54,7 +54,7 @@
         <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> 
     </a>
 </p>
-<hr>
+
 
 <h3 align="left">Mobile App Development</h3>
 <p align="left">
@@ -65,7 +65,7 @@
         <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> 
     </a>
 </p>
-<hr>
+
 
 <h3 align="left">Database</h3>
 <p align="left">
@@ -76,7 +76,7 @@
     <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> 
 </a>
 </p>
-<hr>
+
 
 <h3 align="left">Framework</h3>
 <p align="left">
@@ -88,7 +88,7 @@
     <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> 
 </a>
 </p>
-<hr>
+
 
 <h3 align="left">Testing</h3>
 <p align="left">
@@ -96,7 +96,6 @@
     <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> 
 </a>
 </p>
-<hr>
 
 <h3 align="left">Software</h3>
 <p align="left">
@@ -108,7 +107,7 @@
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
 </a> 
 </p>
-<hr>
+
 
 <p>
     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=codinglinhtinh&show_icons=true&locale=en&layout=compact" alt="codinglinhtinh" />
