@@ -1,11 +1,11 @@
-[![MasterHead](https://cdn.faun.dev/prod/media/public/original_images/devOps-cloud-native.gif)]()
+[![MasterHead](https://cdn.faun.dev/prod/media/public/original_images/devOps-cloud-native.gif)](https://github.com/CodingLinhTinh)
 
 <h1 align="center">Hi 👋, I'm Nicole Quach</h1>
 <h3 align="center">I'm deeply passionate about working in the field of DevOps as well as being a Python developer from VietNam.</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codinglinhtinh&label=Profile%20views&color=0e75b6&style=flat" alt="codinglinhtinh" /> </p>
-<img align="right" src="https://scontent.fsgn19-1.fna.fbcdn.net/v/t39.30808-6/326435823_901607080978567_1867971604182639360_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=174925&_nc_ohc=7bX9ZKw-dXQAX9ukisT&_nc_ht=scontent.fsgn19-1.fna&oh=00_AfDUcQVo_UimFbqzGwgoVycCzJejw4qTdflzDV4FOx1aOg&oe=648BA629" alt="codinglinhtinh" /> 
+<img align="right" width="400" src="https://scontent.fsgn19-1.fna.fbcdn.net/v/t39.30808-6/326435823_901607080978567_1867971604182639360_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=174925&_nc_ohc=7bX9ZKw-dXQAX9ukisT&_nc_ht=scontent.fsgn19-1.fna&oh=00_AfDUcQVo_UimFbqzGwgoVycCzJejw4qTdflzDV4FOx1aOg&oe=648BA629" alt="codinglinhtinh" /> 
 
 - 🌱 I’m currently learning **IBM DevOps and Software Engineering Professional Certificate**
 
