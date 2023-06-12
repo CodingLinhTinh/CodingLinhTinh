@@ -1,13 +1,11 @@
+[![MasterHead](https://cdn.faun.dev/prod/media/public/original_images/devOps-cloud-native.gif)]()
+
 <h1 align="center">Hi 👋, I'm Nicole Quach</h1>
 <h3 align="center">I'm deeply passionate about working in the field of DevOps as well as being a Python developer from VietNam.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=codinglinhtinh&label=Profile%20views&color=0e75b6&style=flat" alt="codinglinhtinh" /> </p>
 
-<p> 
-    <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img src="https://github-profile-trophy.vercel.app/?username=codinglinhtinh" alt="codinglinhtinh" />  
-    </a> 
-</p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=codinglinhtinh&label=Profile%20views&color=0e75b6&style=flat" alt="codinglinhtinh" /> </p>
+<img align="right" src="https://scontent.fsgn19-1.fna.fbcdn.net/v/t39.30808-6/326435823_901607080978567_1867971604182639360_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=174925&_nc_ohc=7bX9ZKw-dXQAX9ukisT&_nc_ht=scontent.fsgn19-1.fna&oh=00_AfDUcQVo_UimFbqzGwgoVycCzJejw4qTdflzDV4FOx1aOg&oe=648BA629" alt="codinglinhtinh" /> 
 
 - 🌱 I’m currently learning **IBM DevOps and Software Engineering Professional Certificate**
 
@@ -16,6 +14,7 @@
 - 📫 How to reach me **<nicolequachworkspace@gmail.com>**
 
 - 📄 Know about my experiences [https://codinglinhtinh.github.io/cv](https://codinglinhtinh.github.io/cv)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
