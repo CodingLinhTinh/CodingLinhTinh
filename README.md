@@ -1,8 +1,7 @@
 [![MasterHead](https://media0.giphy.com/headers/GitHub/w8ZJLtJbmuph.gif)](https://github.com/CodingLinhTinh)
 
-<h1 align="center">Hi 👋, I'm Nicole Quach</h1>
-<h2 align="center"> <i> I'm deeply passionate about working in the field of DevOps as well as being a Python developer from VietNam. </i> </h2>
-<br>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&duration=4000&pause=500&color=7C06CF&vCenter=true&width=900&lines=%E3%80%8C+I'm+a+DevOps+developer+from+VietNam)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&duration=4000&pause=500&color=AE32E6&vCenter=true&width=900&lines=%E3%80%8C+I'm+deeply+passionate+about+working+in+the+field+of+DevOps+%E3%80%8D)](https://git.io/typing-svg)
 
 <img align="right" width="300" src="https://scontent.fsgn19-1.fna.fbcdn.net/v/t39.30808-6/326435823_901607080978567_1867971604182639360_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=174925&_nc_ohc=7bX9ZKw-dXQAX9ukisT&_nc_ht=scontent.fsgn19-1.fna&oh=00_AfDUcQVo_UimFbqzGwgoVycCzJejw4qTdflzDV4FOx1aOg&oe=648BA629" alt="codinglinhtinh" /> 
 
@@ -14,7 +13,6 @@
 
 - 📄 Know about my experiences [https://codinglinhtinh.github.io/cv](https://codinglinhtinh.github.io/cv)
 
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
     <a href="https://linkedin.com/in/ngoc quach bao" target="blank">
@@ -24,96 +22,59 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="quách bảo ngọc" height="30" width="40" />
     </a>
 </p>
+<h2>⚒️⚒️_Programs & Tools_⛏️⛏️</h2>
+<h3>📦📦Database📦📦</h3>
 
-<h3 align="left">Programming Languages</h3>
-<p align="left">
-    <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-    </a>
-    <a href="https://www.php.net" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> 
-    </a>
-</p>
+![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
+<h3>🎨🎨Design🎨🎨</h3>
 
-<h3 align="left">Frontend Development</h3>
-<p align="left">
-    <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
-    </a> 
-    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-    </a>
-    <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
-    </a> 
-    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-    </a>
-    <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> 
-    </a>
-</p>
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 
-<h3 align="left">Mobile App Development</h3>
-<p align="left">
-    <a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> 
-    </a>
-    <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> 
-        <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> 
-    </a>
-</p>
+<h3>🏫🏫Education🏫🏫</h3>
+
+![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white)
+![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green)
+![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)
 
 
-<h3 align="left">Database</h3>
-<p align="left">
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-</a>
-<a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> 
-    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> 
-</a>
-</p>
+<h3>📚📚 Frameworks, Platforms and Libraries📚📚</h3>
+
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
+![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 
 
-<h3 align="left">Framework</h3>
-<p align="left">
-    <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> 
-    </a>
+<h3>📋📋 Languages📋📋</h3>
 
-<a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> 
-</a>
-</p>
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 
+<h2>⭐⭐ About Some Statistics ⭐⭐</h2>
 
-<h3 align="left">Testing</h3>
-<p align="left">
-<a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> 
-</a>
-</p>
-
-<h3 align="left">Software</h3>
-<p align="left">
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
-<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
-</a> 
-<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
-</a> 
-</p>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=codinglinhtinh&show_icons=true&theme=radical)
+[![GitHub Streak](https://streak-stats.demolab.com?user=codinglinhtinh&theme=radical)](https://git.io/streak-stats)
 
 
-<p>
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=codinglinhtinh&show_icons=true&locale=en&layout=compact" alt="codinglinhtinh" />
-</p>
+<h2>🏆🏆 My Certificates 🏆🏆</h2>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=codinglinhtinh&show_icons=true&locale=en" alt="codinglinhtinh" /></p>
+![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codinglinhtinh&" alt="codinglinhtinh" /></p>
+[Scrum Master Certification: Scaling Agile and the Team-of-Teams](https://coursera.org/share/1af775e2d6a421f82d7103f30e46a7c6)
 
+[Python Data Structures - Michigan University](https://coursera.org/share/5174441433272d180ae9611344a1fb3d)
+
+![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)
+
+[100 Days of Code: The Complete Python Pro Bootcamp for 2023](https://www.udemy.com/certificate/UC-20f3e903-de3f-4775-8a15-cc4f268ab42b/)
+
+<h2>Thanks for Viewing</h2>
+
+![Snake animation](https://github.com/LeHaGiaBao/LeHaGiaBao/blob/output/github-contribution-grid-snake.svg)
