@@ -59,7 +59,6 @@
 
 <h2>⭐⭐ About Some Statistics ⭐⭐</h2>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=codinglinhtinh&show_icons=true&theme=radical)
 [![GitHub Streak](https://streak-stats.demolab.com?user=codinglinhtinh&theme=radical)](https://git.io/streak-stats)
 
 
