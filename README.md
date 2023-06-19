@@ -1,6 +1,6 @@
 [![MasterHead](https://media0.giphy.com/headers/GitHub/w8ZJLtJbmuph.gif)](https://github.com/CodingLinhTinh)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&duration=4000&pause=500&color=7C06CF&vCenter=true&width=900&lines=%E3%80%8C+I'm+a+Data+Analyst+from+VietNam)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&duration=4000&pause=500&color=7C06CF&vCenter=true&width=900&lines=%E3%80%8C+I'm+a+Data+Analyst+/+Developer+from+VietNam)](https://git.io/typing-svg)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&duration=4000&pause=500&color=AE32E6&vCenter=true&width=900&lines=%E3%80%8C+I'm+deeply+passionate+about+working+in+the+field+of+Analysing+Data+%E3%80%8D)](https://git.io/typing-svg)
 
 <img align="right" width="300" src="https://scontent.fsgn19-1.fna.fbcdn.net/v/t39.30808-6/326435823_901607080978567_1867971604182639360_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=174925&_nc_ohc=7bX9ZKw-dXQAX9ukisT&_nc_ht=scontent.fsgn19-1.fna&oh=00_AfDUcQVo_UimFbqzGwgoVycCzJejw4qTdflzDV4FOx1aOg&oe=648BA629" alt="codinglinhtinh" /> 
