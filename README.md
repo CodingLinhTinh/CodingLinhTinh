@@ -5,9 +5,9 @@
 
 <img align="right" width="300" src="https://scontent.fsgn19-1.fna.fbcdn.net/v/t39.30808-6/326435823_901607080978567_1867971604182639360_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=174925&_nc_ohc=7bX9ZKw-dXQAX9ukisT&_nc_ht=scontent.fsgn19-1.fna&oh=00_AfDUcQVo_UimFbqzGwgoVycCzJejw4qTdflzDV4FOx1aOg&oe=648BA629" alt="codinglinhtinh" /> 
 
-- 🌱 I’m currently learning **IBM Data Analyst Professional Certificate**
+- 🌱 I’m currently learning **IBM Full Stack Software Developer Professional Certificate**
 
-- 💬 My experiences with **Python.** is 2 years.
+- 💬 My experiences with **Python** is 2 years.
 
 - 📫 How to reach me **<nicolequachworkspace@gmail.com>**
 
@@ -75,6 +75,7 @@
 [100 Days of Code: The Complete Python Pro Bootcamp for 2023](https://www.udemy.com/certificate/UC-20f3e903-de3f-4775-8a15-cc4f268ab42b/)
 
 [Data Wrangling & Data Analysis Masterclass with Python](https://www.udemy.com/certificate/UC-de1d8c67-37c8-4a5d-a37e-047f2d0d4780/)
+
 <h2>Thanks for Viewing</h2>
 
 ![Snake animation](https://github.com/LeHaGiaBao/LeHaGiaBao/blob/output/github-contribution-grid-snake.svg)
