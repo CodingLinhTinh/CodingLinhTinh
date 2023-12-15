@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **<nicolequachworkspace@gmail.com>**
 
-- 📄 Know about my experiences [https://codinglinhtinh.github.io/cv](https://codinglinhtinh.github.io/cv)
+- 📄 Know about my experiences [nicolequach.com](https://nicolequach.pythonanywhere.com/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -79,5 +79,3 @@
 [Data Wrangling & Data Analysis Masterclass with Python](https://www.udemy.com/certificate/UC-de1d8c67-37c8-4a5d-a37e-047f2d0d4780/)
 
 <h2>Thanks for Viewing</h2>
-
-![Snake animation](https://github.com/LeHaGiaBao/LeHaGiaBao/blob/output/github-contribution-grid-snake.svg)
